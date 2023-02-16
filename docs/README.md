@@ -14,7 +14,7 @@ In precedenza ospitati su Invision -  ⚠️ Potrebbero essere obsoleti.
 ⚠️ Per le risorse aggiornate fate riferimento alla [sezione dedicata alle scuole](https://designers.italia.it/modello/scuole/) del sito Designers Italia 
 - [scuola-hi-fi-concept](https://italia.github.io/design-archived-prototypes/scuola-hi-fi-concept/)
 - [scuola-hi-fi-per-sviluppo](https://italia.github.io/design-archived-prototypes/scuola-hi-fi-per-sviluppo/)
-– [scuola-low-fi-completo-desktop](https://italia.github.io/design-archived-prototypes/scuola-low-fi-completo-desktop/)
+- [scuola-low-fi-completo-desktop](https://italia.github.io/design-archived-prototypes/scuola-low-fi-completo-desktop/)
 - [scuola-low-fi-completo-mobile](https://italia.github.io/design-archived-prototypes/scuola-low-fi-completo-mobile/)
 - [scuola-low-fi-scenari-desktop](https://italia.github.io/design-archived-prototypes/scuola-low-fi-scenari-desktop/)
 - [scuola-low-fi-scenari-mobile](https://italia.github.io/design-archived-prototypes/scuola-low-fi-scenari-mobile/)
