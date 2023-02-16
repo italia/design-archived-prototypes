@@ -30,4 +30,6 @@ In precedenza ospitati su Invision -  ⚠️ Potrebbero essere obsoleti.
 - [developers.italia.it-desktop](https://italia.github.io/design-archived-prototypes/developers.italia.it-desktop/) 
 - [developers.italia.it-mobile](https://italia.github.io/design-archived-prototypes/developers.italia.it-mobile/)
 
-_work in progress_
+---
+
+[Licenza CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.it)
