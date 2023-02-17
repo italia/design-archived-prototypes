@@ -32,4 +32,6 @@ In precedenza ospitati su Invision -  ⚠️ Potrebbero essere obsoleti.
 
 ---
 
-[Licenza CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.it)
+Tutti i prototipi sono esportazioni AS IS da Invision. 
+
+[Licenza CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.it), tranne dove esplicitamente segnalato e le risorse della UI di Invision.
